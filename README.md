@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZeinaBozia
-- 👀 I’m interested in designing pages
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in designing pages 
+     using html & css
 - 💞️ I’m looking to collaborate on developing 
      web pages
 - 📫 How to reach me by
